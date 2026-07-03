@@ -1,0 +1,9 @@
+*.vcf
+*.vcf.gz
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.bai
+*.tbi
+wgs_germline_vc_practice/
