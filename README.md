@@ -11,7 +11,7 @@
 | 디렉토리 | 분석명 | 상태 |
 |---|---|---|
 | [`wes_germline_variant_calling/`](wes_germline_variant_calling/) | WES Germline SNV/Indel Calling | 🚧 진행 중 |
-| `wgs_.../` | (예정) WGS 분석 | ⏳ 완료 / 추가 예정 |
+| `wgs_.../` | WGS 분석 | ⏳ 완료 / 추가 예정 |
 | `rna_seq_.../` | (예정) RNA-seq 분석 | ⏳ 예정 |
 
 ## 디렉토리 구성 원칙
